@@ -1,0 +1,17 @@
+{
+  "name": "kutsan",
+  "version": "1.0.0",
+  "homepage": "https://kutsankaplan.com",
+  "description": "Placeholder package for myself.",
+  "license": "MIT",
+  "author": "Kutsan Kaplan <me@kutsankaplan.com> (https://kutsankaplan.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kutsan/kutsan"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": ""
+  }
+}
