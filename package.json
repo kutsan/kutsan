@@ -1,11 +1,10 @@
 {
   "name": "kutsan",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Placeholder package for myself.",
   "repository": "github:kutsan/kutsan",
   "license": "GPL-3.0",
   "author": "Kutsan Kaplan <me@kutsankaplan.com> (https://kutsankaplan.com)",
   "main": "src/index.js",
-  "dependencies": {},
   "devDependencies": {}
 }
