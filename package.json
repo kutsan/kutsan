@@ -5,6 +5,8 @@
   "repository": "github:kutsan/kutsan",
   "license": "GPL-3.0",
   "author": "Kutsan Kaplan <me@kutsankaplan.com> (https://kutsankaplan.com)",
-  "main": "src/index.js",
+  "type": "module",
+  "exports": "./index.js",
+  "types": "./index.d.ts",
   "devDependencies": {}
 }
